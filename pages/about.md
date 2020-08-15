@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-My Github page: [click here](https://github.com/UnderSilence).
+My Github page: [click here](https://github.com/UnderSilence), email: undersilence@qq.com.
 
-focusing on Computer Graphics/Animation, Game development technique.
+Focusing on Computer Graphics/Animation, Game development technique.
